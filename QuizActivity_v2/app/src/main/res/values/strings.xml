@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizActivity</string>
+    <string name="question_text1"> Ya te vacunaste (covid 2019) 1? </string>
+    <string name="question_text2"> Ya te vacunaste (covid 2019) 2? </string>
+    <string name="question_text3"> Ya te vacunaste (covid 2019) 3? </string>
+    <string name="question_text4"> Ya te vacunaste (covid 2019) 4? </string>
+    <string name="question_text5"> Ya te vacunaste (covid 2019) 5? </string>
+    <string name="question_text6"> Ya te vacunaste (covid 2019) 6? </string>
+    <string name="true_button"> Verdadero </string>
+    <string name="false_button"> Falso </string>
+    <string name="next_button"> Siguiente </string>
+    <string name="answer_button"> Respuesta</string>
+    <string name="true_msg">  Respuesta Correcta </string>
+    <string name="false_msg"> Respuesta Incorrecta </string>
+    <string name = "trampa_msg"> Hiciste trampa! </string>
+    <string name="back_button"> Atras </string>
+</resources>
